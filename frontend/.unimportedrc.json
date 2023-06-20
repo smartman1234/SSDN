@@ -1,0 +1,14 @@
+{
+  "ignoreUnresolved": [],
+  "ignoreUnused": [
+    "react-horizontal-timeline",
+    "react-scripts",
+    "unimported",
+    "web-vitals"
+  ],
+  "ignoreUnimported": [
+    "src/Pages/About/Horizontal.js",
+    "src/Pages/TestQuestion/DragDropOptions.js",
+    "src/Pages/TestQuestion/DragDropQuestions.js"
+  ]
+}

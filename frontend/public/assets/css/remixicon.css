@@ -1,0 +1,335 @@
+@font-face {
+    font-family: remixicon;
+    src: url("../fonts/remixicon.eot");
+    src: url("../fonts/remixicon.eot") format("embedded-opentype"),
+        url("../fonts/remixicon.woff2") format("woff2"),
+        url("../fonts/remixicon.woff") format("woff"),
+        url("../fonts/remixicon.ttf") format("truetype");
+    font-display: swap
+}
+
+[class*=" ri-"],
+[class^=ri-] {
+    font-family: remixicon !important;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+
+.ri-arrow-drop-right-fill:before {
+    content: "\ea53"
+}
+
+.ri-arrow-drop-right-line:before {
+    content: "\ea54"
+}
+
+.ri-arrow-left-s-line:before {
+    content: "\ea64"
+}
+
+.ri-arrow-right-s-line:before {
+    content: "\ea6e"
+}
+
+.ri-book-line:before {
+    content: "\ead7"
+}
+
+.ri-book-open-fill:before {
+    content: "\eada"
+}
+
+.ri-phone-line:before {
+    content: "\efec"
+}
+
+.ri-briefcase-line:before {
+    content: "\eaf5"
+}
+
+.ri-calendar-todo-fill:before {
+    content: "\eb28"
+}
+
+.ri-cake-2-line:before {
+    content: "\eb19"
+}
+
+.ri-alarm-line:before {
+    content: "\ea1b"
+}
+
+.ri-24-hours-line:before {
+    content: "\ea02"
+}
+
+.ri-add-line:before {
+    content: "\ea13"
+}
+
+.ri-close-line:before {
+    content: "\eb99"
+}
+
+.ri-delete-bin-line:before {
+    content: "\ec2a"
+}
+
+.ri-discuss-line:before {
+    content: "\ec3a"
+}
+
+.ri-edit-box-line:before {
+    content: "\ec82"
+}
+
+.ri-facebook-fill:before {
+    content: "\ecbc"
+}
+
+.ri-file-edit-line:before {
+    content: "\ecdb"
+}
+
+.ri-file-list-line:before {
+    content: "\ecf1"
+}
+
+.ri-global-line:before {
+    content: "\edcf"
+}
+
+.ri-google-fill:before {
+    content: "\edd4"
+}
+
+.ri-grid-fill:before {
+    content: "\edde"
+}
+
+.ri-history-line:before {
+    content: "\ee17"
+}
+
+.ri-lock-line:before {
+    content: "\eece"
+}
+
+.ri-mail-open-line:before {
+    content: "\eefa"
+}
+
+.ri-map-pin-line:before {
+    content: "\ef14"
+}
+
+.ri-menu-line:before {
+    content: "\ef3e"
+}
+
+.ri-pencil-fill:before {
+    content: "\efdf"
+}
+
+.ri-phone-fill:before {
+    content: "\efe9"
+}
+
+.ri-play-line:before {
+    content: "\f00b"
+}
+
+.ri-search-line:before {
+    content: "\f0d1"
+}
+
+.ri-shield-user-line:before {
+    content: "\f10c"
+}
+
+.ri-shopping-cart-2-fill:before {
+    content: "\f11d"
+}
+
+.ri-shopping-basket-2-line:before {
+    content: "\f11a"
+}
+
+.ri-shut-down-line:before {
+    content: "\f126"
+}
+
+.ri-time-line:before {
+    content: "\f20f"
+}
+
+.ri-trophy-line:before {
+    content: "\f22f"
+}
+
+.ri-user-line:before {
+    content: "\f264"
+}
+
+.ri-whatsapp-line:before {
+    content: "\f2bc"
+}
+
+@font-face {
+    font-family: icomoon;
+    font-display: swap;
+    src: url("../fonts/icomoon.eot");
+    src: url("../fonts/icomoon.eot") format("embedded-opentype"),
+        url("../fonts/icomoon.ttf") format("truetype"),
+        url("../fonts/icomoon.woff") format("woff");
+    font-weight: 400;
+    font-style: normal;
+   
+}
+
+[class*=" icon-"],
+[class^=icon-] {
+    font-family: icomoon !important;
+    speak: never;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+
+.icon-Double-arrow:before {
+    content: "\e900"
+}
+
+.icon-Fb:before {
+    content: "\e902"
+}
+
+.icon-Pinterest:before {
+    content: "\e904"
+}
+
+.icon-linkedin:before {
+    content: "\e903"
+}
+
+.icon-Twitter:before {
+    content: "\e905"
+}
+
+.icon-award-line:before {
+    content: "\e907"
+}
+
+.icon-translate:before {
+    content: "\e909"
+}
+
+.icon-draft-line:before {
+    content: "\e90e"
+}
+
+.icon-user-2-line_tie:before {
+    content: "\e917"
+}
+
+.icon-book-line:before {
+    content: "\e91b"
+}
+
+.icon-shopping-basket-2-line:before {
+    content: "\e91c"
+}
+
+.icon-trophy-line:before {
+    content: "\e91d"
+}
+
+.icon-checkbox-circle-fill-solid:before {
+    content: "\e91e"
+}
+
+.icon-Lock:before {
+    content: "\e931"
+}
+
+.icon-Browser:before {
+    content: "\e932"
+}
+
+.icon-Destination:before {
+    content: "\e933"
+}
+
+.icon-presentation:before {
+    content: "\e936"
+}
+
+.icon-Open-book:before {
+    content: "\e93a"
+}
+
+.icon-trophy:before {
+    content: "\e940"
+}
+
+.icon-mail-open-line:before {
+    content: "\e941"
+}
+
+.icon-Schoolbag:before {
+    content: "\e943"
+}
+
+.icon-phone-line:before {
+    content: "\e947"
+}
+
+.icon-map-pin-line:before {
+    content: "\e94c"
+}
+
+.icon-Bag:before {
+    content: "\e94d"
+}
+
+.icon-calendar-2-line:before {
+    content: "\e95c"
+}
+
+.icon-Star:before {
+    content: "\e95d";
+    color: #ffa41b
+}
+
+.icon-phone-fill:before {
+    content: "\e95e"
+}
+
+.icon-user-line:before {
+    content: "\e961"
+}
+
+.icon-search-line:before {
+    content: "\e963"
+}
+
+.icon-time-line:before {
+    content: "\e967"
+}
+
+.icon-Campus:before {
+    content: "\e96b"
+}
+
+.icon-Hand---Book:before {
+    content: "\e96c"
+}
+
+.icon-student-read:before {
+    content: "\e93f"
+}
